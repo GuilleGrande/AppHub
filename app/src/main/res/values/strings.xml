@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppHub</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main activity strings -->
+    <string name="main_top_msg">Welcome to My Nanodegree AppHub!</string>
+    <string name="btn_toSpotifyStreamerApp">Spotify Streamer</string>
+    <string name="btn_toScoresApp">Scores</string>
+    <string name="btn_toLibraryApp">Library</string>
+    <string name="btn_toBuildItBiggerApp">BuildIt Bigger</string>
+    <string name="btn_toXYZReaderApp">XYZ Reader</string>
+    <string name="btn_toCapstoneMyApp">Capstone: My App</string>
+
+</resources>
